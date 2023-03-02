@@ -1,3 +1,3 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2023 </strong>
+    <strong>Develop By Narongsak | Kittipan </strong>
   </footer>

@@ -58,7 +58,7 @@
 
           <div class="input-field">
             <i class="fas fa-user"></i>
-            <input type="text" name="user_level" placeholder="Level" />
+            <input type="text" name="user_level" placeholder="Level (worker,employee)" />
           </div>
 
           <div class="input-field">

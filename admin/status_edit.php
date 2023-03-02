@@ -65,10 +65,10 @@
     <tr>
       <td bgcolor="#EBEBEB">&nbsp;</td>
       <td bgcolor="#EBEBEB">
-        <input type="button" value=" ยกเลิก " class="bg-danger"onclick="window.location='status.php' " /> 
+        <input type="button" value=" ยกเลิก " class="btn btn-danger"onclick="window.location='status.php' " /> 
         &nbsp;&nbsp;
         
-        <button type="submit" class="bg-success">ยืนยันการแก้ไขข้อมูล</button>
+        <button type="submit" class="btn btn-success">ยืนยันการแก้ไขข้อมูล</button>
     </tr>
     <tr>
       <td bgcolor="#EBEBEB">&nbsp;</td>
